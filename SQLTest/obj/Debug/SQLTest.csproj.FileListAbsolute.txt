@@ -1,0 +1,2 @@
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\SQLTest\SQLTest\obj\Debug\SQLTest.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\SQLTest\SQLTest\obj\Debug\SQLTest.csproj.CoreCompileInputs.cache
